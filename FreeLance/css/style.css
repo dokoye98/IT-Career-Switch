@@ -1,0 +1,33 @@
+body{
+   background-color: silver;
+}
+
+header img{
+    width: 100%; /*reaches 100% of the width*/
+    height: auto;/*changes depending on webpage*/
+    
+}
+main img{
+    width: 100%; /*reaches 100% of the width*/
+    height: auto;/*changes depending on webpage*/
+    max-width: 500px;
+}
+
+nav li{
+    list-style: none;
+}
+main{
+    border-top: solid 0.2em black;
+    border-bottom: solid 0.2em black;
+    border-radius: 1.0em;
+}
+main video{
+    width: 20%;
+    height: auto;
+}
+main h1{
+    text-align: left;
+}
+footer img{
+    max-width: 350px;
+}
