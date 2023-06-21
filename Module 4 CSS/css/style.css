@@ -1,0 +1,23 @@
+h2{
+    color: white; 
+    background-color: black;
+}
+
+h1{
+    background-color: orange;
+    font-size: 28pt;
+    text-align: center;
+}
+
+.idle{
+color: white;
+}
+#newid{
+    background-color: white;
+}
+
+body div{
+    color: green;
+}
+
+/*hello this is a comment*/

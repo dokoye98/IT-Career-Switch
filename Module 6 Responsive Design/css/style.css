@@ -1,0 +1,17 @@
+header img{
+    width: 100%; /*reaches 100% of the width*/
+    height: auto;/*changes depending on webpage*/
+}
+
+nav{
+    border-top: solid 0.2em black ;
+   
+    margin-bottom: 1em;
+}
+nav li{
+    list-style: none;
+}
+main{
+    border-top: solid 0.2em black;
+    border-bottom: solid 0.2em black;
+}
