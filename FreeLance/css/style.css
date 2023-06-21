@@ -1,5 +1,5 @@
 body{
-   background-color: silver;
+    background-image: linear-gradient(grey,silver);
 }
 
 header img{
@@ -13,6 +13,11 @@ main img{
     max-width: 500px;
 }
 
+nav{
+    border-top: solid 0.2em black ;
+    border-radius: 1.0em;
+    margin-bottom: 1em;
+}
 nav li{
     list-style: none;
 }
